@@ -1,4 +1,10 @@
-                                                                README — Nexus Career API
+Participantes :
+Caio Freitas - RM553190
+Enzzo Monteiro - RM552616 
+Lana Andrade -  RM552596
+
+
+                                                        README — Nexus Career API
 
 A Nexus Career é uma plataforma desenvolvida para conectar pessoas a oportunidades profissionais usando inteligência artificial e análise de dados.
 A aplicação recebe currículos, processa competências, experiências e preferências comportamentais dos candidatos, e cruza essas informações com vagas cadastradas por empresas.
@@ -104,3 +110,4 @@ servindo tanto como ferramenta de apoio ao candidato quanto solução de recruta
     PUT /api/v1/candidatos/{id} — atualiza candidato
 
     DELETE /api/v1/candidatos/{id} — remove candidato
+
