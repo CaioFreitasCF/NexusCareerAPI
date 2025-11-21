@@ -1,0 +1,6 @@
+@NexusCareerAPI_HostAddress = http://localhost:5173
+
+GET {{NexusCareerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
